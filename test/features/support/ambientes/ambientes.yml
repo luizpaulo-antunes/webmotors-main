@@ -1,0 +1,10 @@
+prod:
+  base_url_login: ""
+
+dev:
+  base_url_login: ""
+
+qa:  
+  base_url: "https://desafioonline.webmotors.com.br/api/OnlineChallenge"
+
+

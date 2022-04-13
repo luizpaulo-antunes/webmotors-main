@@ -1,0 +1,14 @@
+user1:
+  login: '30162662882'
+  senha: 'Teste@123'
+
+user2:
+  login: '16515383878'
+  senha: 'Hiae@123'
+user3:
+  login: '46327239838' 
+  senha: 'Teste@123'
+user4:
+  login: '43094504825'
+  senha: 'Dev2021*'
+grant_type: 'password_v4'
