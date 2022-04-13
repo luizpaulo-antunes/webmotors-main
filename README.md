@@ -10,7 +10,7 @@ Este projeto foi criado com a finalidade de avaliar o conhecimento sobre automa�
 
 Guia para usuario:
 1.	Instalar o AndroidStudio
-2.	Instalar RUBY versao 3.1.1 ou inferior
+2.	Instalar RUBY versao 3.0 ou inferior
 3.	Siga o manual de instalação e configuraçao fornecidos pela empresa
 
 # Construir e testar
